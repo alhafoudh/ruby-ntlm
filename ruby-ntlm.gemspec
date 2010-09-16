@@ -32,6 +32,7 @@ Gem::Specification.new do |s|
      "lib/ntlm/message.rb",
      "lib/ntlm/smtp.rb",
      "lib/ntlm/util.rb",
+     "ruby-ntlm.gemspec",
      "test/auth_test.rb",
      "test/function_test.rb",
      "test/test_helper.rb",
